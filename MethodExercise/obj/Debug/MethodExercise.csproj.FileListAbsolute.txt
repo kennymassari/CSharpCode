@@ -1,0 +1,7 @@
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\MethodExercise\bin\Debug\MethodExercise.exe.config
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\MethodExercise\bin\Debug\MethodExercise.exe
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\MethodExercise\bin\Debug\MethodExercise.pdb
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\MethodExercise\obj\Debug\MethodExercise.csprojAssemblyReference.cache
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\MethodExercise\obj\Debug\MethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\MethodExercise\obj\Debug\MethodExercise.exe
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\MethodExercise\obj\Debug\MethodExercise.pdb

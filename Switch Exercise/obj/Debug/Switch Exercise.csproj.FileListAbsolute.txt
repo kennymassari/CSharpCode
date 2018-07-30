@@ -1,0 +1,7 @@
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\Switch Exercise\bin\Debug\Switch Exercise.exe.config
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\Switch Exercise\bin\Debug\Switch Exercise.exe
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\Switch Exercise\bin\Debug\Switch Exercise.pdb
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\Switch Exercise\obj\Debug\Switch Exercise.csprojAssemblyReference.cache
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\Switch Exercise\obj\Debug\Switch Exercise.csproj.CoreCompileInputs.cache
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\Switch Exercise\obj\Debug\Switch Exercise.exe
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\Switch Exercise\obj\Debug\Switch Exercise.pdb

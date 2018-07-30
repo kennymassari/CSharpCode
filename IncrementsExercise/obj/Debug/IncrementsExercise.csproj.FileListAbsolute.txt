@@ -1,0 +1,7 @@
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\IncrementsExercise\bin\Debug\IncrementsExercise.exe.config
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\IncrementsExercise\bin\Debug\IncrementsExercise.exe
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\IncrementsExercise\bin\Debug\IncrementsExercise.pdb
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\IncrementsExercise\obj\Debug\IncrementsExercise.csprojAssemblyReference.cache
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\IncrementsExercise\obj\Debug\IncrementsExercise.csproj.CoreCompileInputs.cache
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\IncrementsExercise\obj\Debug\IncrementsExercise.exe
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\IncrementsExercise\obj\Debug\IncrementsExercise.pdb

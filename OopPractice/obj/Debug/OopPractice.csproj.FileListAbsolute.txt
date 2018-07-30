@@ -1,0 +1,7 @@
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\OopPractice\bin\Debug\OopPractice.exe.config
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\OopPractice\bin\Debug\OopPractice.exe
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\OopPractice\bin\Debug\OopPractice.pdb
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\OopPractice\obj\Debug\OopPractice.csprojAssemblyReference.cache
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\OopPractice\obj\Debug\OopPractice.csproj.CoreCompileInputs.cache
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\OopPractice\obj\Debug\OopPractice.exe
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\OopPractice\obj\Debug\OopPractice.pdb

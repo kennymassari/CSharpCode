@@ -1,0 +1,7 @@
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\ArrayExercise\bin\Debug\ArrayExercise.exe.config
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\ArrayExercise\bin\Debug\ArrayExercise.exe
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\ArrayExercise\bin\Debug\ArrayExercise.pdb
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\ArrayExercise\obj\Debug\ArrayExercise.csprojAssemblyReference.cache
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\ArrayExercise\obj\Debug\ArrayExercise.csproj.CoreCompileInputs.cache
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\ArrayExercise\obj\Debug\ArrayExercise.exe
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\ArrayExercise\obj\Debug\ArrayExercise.pdb

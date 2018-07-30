@@ -1,0 +1,6 @@
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\ENum Exercise\bin\Debug\ENum Exercise.exe.config
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\ENum Exercise\bin\Debug\ENum Exercise.exe
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\ENum Exercise\bin\Debug\ENum Exercise.pdb
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\ENum Exercise\obj\Debug\ENum Exercise.csproj.CoreCompileInputs.cache
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\ENum Exercise\obj\Debug\ENum Exercise.exe
+C:\Users\hotle\Desktop\ASM Stuff\C#\CSharpSolutions\ENum Exercise\obj\Debug\ENum Exercise.pdb
